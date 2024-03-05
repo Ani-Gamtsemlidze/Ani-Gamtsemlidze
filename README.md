@@ -10,10 +10,6 @@ I'm [ ANI ], a self-taught coder eager to learn and explore more in the developi
 
 🚀👥 - Always ready for the next coding adventure and collaborations! <br/>
 
-<div align="right">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Gamtsemlidze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
 
 # 💻 Tech Stack:
@@ -21,6 +17,11 @@ I'm [ ANI ], a self-taught coder eager to learn and explore more in the developi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ani-Gamtsemlidze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ani-Gamtsemlidze&theme=tokyonight&hide_border=false)<br/>
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Gamtsemlidze&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ani-Gamtsemlidze&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
