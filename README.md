@@ -1,6 +1,6 @@
 ### Hello World! 🌍
 
-I'm Ani, a self-taught coder eager to learn and explore more in the developing world. <br/>
+I'm Ani, a self-taught coder eager to learn and explore more in the world of development. <br/>
 
 🚀 About me <br/>
 
